@@ -1,0 +1,4 @@
+enum ModeType {
+  create,
+  edit,
+}
